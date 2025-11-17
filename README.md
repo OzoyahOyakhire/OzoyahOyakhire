@@ -1,13 +1,15 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
+
 <h1 align="center">Hi 👋, I'm Ozoyah</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Next js, Python**
 
-- 💬 Ask me about **react, typescript,**
+- 💬 Ask me about **react, typescript, python**
 
 - 📫 How to reach me **justiceoyakhire27@gmail.con**
 
-- ⚡ Fun fact **I play football**
+- ⚡ Fun fact **I play chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
